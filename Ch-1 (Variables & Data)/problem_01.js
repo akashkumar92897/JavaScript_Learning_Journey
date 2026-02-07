@@ -1,4 +1,4 @@
-// Write a JS program to store name, phone number and marks of a student using objects
+// Write a JS program to store name, phone number and marks of a student/students using objects
 const item = [
     {stud1: "Akash Kumar",   ph1: "9213660265", marks1: "90"},
     {stud2: "Ankoor Wariko", ph2: "9213660465", marks2: "99"},
